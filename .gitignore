@@ -4,10 +4,10 @@
 # Python
 __pycache__/
 *.pyc
+
+# Jupyter
 .ipynb_checkpoints/
+.jupyter_runtime/
 
 # Archivos temporales
 *.tmp
-
-# Jupyter runtime
-.jupyter_runtime/
