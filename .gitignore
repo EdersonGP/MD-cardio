@@ -8,3 +8,6 @@ __pycache__/
 
 # Archivos temporales
 *.tmp
+
+# Jupyter runtime
+.jupyter_runtime/
