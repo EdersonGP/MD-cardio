@@ -1,0 +1,25 @@
+Dataset,K,Métrica,Media,Desv_estandar,Minimo,Maximo
+Original,5,Accuracy,0.992195,0.008163,0.980488,1.0
+Original,5,Precision,0.992558,0.010191,0.981308,1.0
+Original,5,Recall,0.992381,0.017037,0.961905,1.0
+Original,5,F1,0.992361,0.008087,0.980583,1.0
+Original,5,Especificidad,0.99196,0.01101,0.979798,1.0
+Original,5,AUC,0.999048,0.001827,0.99581,1.0
+Original,10,Accuracy,0.997068,0.006606,0.980392,1.0
+Original,10,Precision,0.996296,0.011712,0.962963,1.0
+Original,10,Recall,0.998113,0.005967,0.981132,1.0
+Original,10,F1,0.997161,0.006378,0.981132,1.0
+Original,10,Especificidad,0.996,0.012649,0.96,1.0
+Original,10,AUC,1.0,0.0,1.0,1.0
+Sin duplicados,5,Accuracy,0.794481,0.042921,0.733333,0.836066
+Sin duplicados,5,Precision,0.806208,0.057094,0.735294,0.866667
+Sin duplicados,5,Recall,0.822917,0.041114,0.78125,0.878788
+Sin duplicados,5,F1,0.813337,0.036418,0.757576,0.852941
+Sin duplicados,5,Especificidad,0.760582,0.084325,0.666667,0.857143
+Sin duplicados,5,AUC,0.852232,0.037808,0.786272,0.87991
+Sin duplicados,10,Accuracy,0.801183,0.052556,0.733333,0.866667
+Sin duplicados,10,Precision,0.819496,0.076056,0.7,0.928571
+Sin duplicados,10,Recall,0.823162,0.060297,0.75,0.882353
+Sin duplicados,10,F1,0.818286,0.045239,0.75,0.882353
+Sin duplicados,10,Especificidad,0.775275,0.114713,0.571429,0.928571
+Sin duplicados,10,AUC,0.857536,0.058223,0.779018,0.955357
