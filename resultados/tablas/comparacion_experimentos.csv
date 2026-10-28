@@ -1,0 +1,7 @@
+Métrica,Experimento A: 1025,Experimento B: 302,Diferencia (B - A)
+Accuracy,97.4,81.32,-16.08
+Precision,98.08,82.0,-16.08
+Sensibilidad,96.84,83.67,-13.17
+Especificidad,98.0,78.57,-19.43
+F1-score,97.45,82.83,-14.62
+AUC-ROC,99.82,85.37,-14.45
