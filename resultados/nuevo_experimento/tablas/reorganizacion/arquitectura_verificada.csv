@@ -1,0 +1,7 @@
+capa,tipo,salida,parametros,filtros,kernel,activacion,padding,unidades,dropout
+conv1d,Conv1D,"(11, 32)",128,32.0,3.0,relu,same,,
+conv1d_1,Conv1D,"(11, 96)",9312,96.0,3.0,relu,same,,
+global_average_pooling1d,GlobalAveragePooling1D,"(96,)",0,,,—,—,,
+dense,Dense,"(256,)",24832,,,relu,—,256.0,
+dropout,Dropout,"(256,)",0,,,—,—,,0.3
+dense_1,Dense,"(1,)",257,,,sigmoid,—,1.0,

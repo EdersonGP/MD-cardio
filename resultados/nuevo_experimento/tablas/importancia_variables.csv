@@ -1,0 +1,12 @@
+variable,variable_es,importancia
+ap_hi,Presión sistólica,0.7474316192234938
+age,Edad,0.1510089724259486
+cholesterol,Colesterol,0.07494101855359832
+weight,Peso,0.010034732980511923
+ap_lo,Presión diastólica,0.008520836799821322
+height,Altura,0.0036086393135001953
+gluc,Glucosa,0.002322060403677549
+active,Actividad física,0.0017912131657273013
+gender,Sexo,0.00034090713372101754
+smoke,Tabaquismo,0.0
+alco,Consumo de alcohol,0.0

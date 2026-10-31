@@ -1,0 +1,13 @@
+Elemento,Resultado
+Registros originales,"70,000"
+Registros después de auditoría,"68,615"
+Registros utilizados,"15,000"
+Variables predictoras,11
+Capas del modelo,6
+Parámetros,"34,529"
+Épocas ejecutadas,66
+Accuracy,73.11 %
+Precision,73.26 %
+Recall,71.88 %
+F1-score,72.56 %
+ROC-AUC,78.85 %

@@ -1,0 +1,7 @@
+capa,tipo,forma_salida,parametros,entrenables,no_entrenables
+conv1d,Conv1D,"(None, 11, 32)",128,128,0
+conv1d_1,Conv1D,"(None, 11, 96)",9312,9312,0
+global_average_pooling1d,GlobalAveragePooling1D,"(None, 96)",0,0,0
+dense,Dense,"(None, 256)",24832,24832,0
+dropout,Dropout,"(None, 256)",0,0,0
+dense_1,Dense,"(None, 1)",257,257,0

@@ -1,0 +1,10 @@
+elemento,valor
+Registros utilizados,15000
+Variables predictoras,11
+Entrenamiento,10500
+Validación,2250
+Prueba,2250
+Parámetros del modelo,34529
+Épocas máximas,100
+Épocas ejecutadas,44
+Batch size,32
