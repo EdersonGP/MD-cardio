@@ -1,0 +1,45 @@
+{
+  "artefactos_originales_intactos": 67,
+  "notebooks_respaldados_intactos": 12,
+  "notebooks_validos": 12,
+  "dependencias_dataset_anterior": 0,
+  "llamadas_activas_entrenamiento_modelos": 0,
+  "dataset_original": 70000,
+  "dataset_limpio": 68615,
+  "muestra": 15000,
+  "parametros_configuracion_guardada": 34529,
+  "metricas_desde_predicciones": {
+    "Accuracy": 0.7311111111111112,
+    "Precision": 0.7326007326007326,
+    "Recall": 0.7187780772686433,
+    "F1-score": 0.7256235827664399,
+    "ROC-AUC": 0.788458301626022
+  },
+  "matriz_confusion": [
+    [
+      845,
+      292
+    ],
+    [
+      313,
+      800
+    ]
+  ],
+  "entrenamientos_ejecutados": 0,
+  "tensorflow_disponible": false,
+  "alcance_arquitectura": "Configuración serializada y tabla original; carga con Keras solo si TensorFlow está disponible",
+  "celdas_ejecutadas": {
+    "01_exploracion_dataset": 4,
+    "02_auditoria_calidad": 3,
+    "03_limpieza_preprocesamiento": 3,
+    "04_preparacion_datos": 4,
+    "05_diseno_entrenamiento_cnn": 3,
+    "06_evaluacion_inicial": 4,
+    "07_auditoria_experimental": 3,
+    "08_nueva_arquitectura_cnn": 4,
+    "09_evaluacion_comparacion": 3,
+    "10_importancia_variables": 3,
+    "11_verificacion_arquitectura": 3,
+    "12_analisis_final": 3
+  }
+}

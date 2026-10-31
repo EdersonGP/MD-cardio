@@ -1,0 +1,122 @@
+{
+  "descripcion": "Respaldo previo a cualquier movimiento; sin entrenamiento",
+  "archivos_conservados": {
+    "data/heart.csv": "ddb2996b2f4db2e00aad13f4518200179ff69f79093838e3c21ffa672ebec0f1",
+    "data/nuevo_dataset/cardio_train.csv": "21a705d23381b0dfd6a6416da701b490744f1fc3b47e9ff3db3968c420ffa10c",
+    "resultados/auditoria/comparacion_articulo.md": "d19ea422cc455e593ee641a838400006a679c896aba00f994fb1199c2a6d04df",
+    "resultados/csv/X_test.csv": "51580fbe816a8f2d9b3a2735d080ef4ad1d0f4810c47e92e1d0e2dbd0a28bae7",
+    "resultados/csv/X_train.csv": "0db254f8179d3f6b3d86ed6e4b4c5b9b88a912d6b8078552560d8e2716cd0a55",
+    "resultados/csv/y_test.csv": "b3c059bfcadb100861c38a319d7d3de68e6c12d3d47a3f93011e649f7a3d875b",
+    "resultados/csv/y_train.csv": "c0c1b74deb2b2d80051fdbf242eb8434d9cb2e14bbd9e27211beea3b95923d8a",
+    "resultados/figuras/comparacion_experimentos.png": "0389f7bd544ee0e122ea357e0a04c63fac3e31f305630912b2b679171b0a3887",
+    "resultados/figuras/comparacion_kfold_original_sin_duplicados.png": "743ab6663973c9383de1df4ac754e221346e117638360b10639ab4272db08a2e",
+    "resultados/figuras/curva_accuracy.png": "1ef25f479b1cbda7b96b6f11779e469a58fd0d38a4bdebf9604101841072457a",
+    "resultados/figuras/curva_accuracy_sin_duplicados.png": "ec71f03ced0f2fa13eecd97c7c3e1a9963bc81d69e82159379264eaf4da61933",
+    "resultados/figuras/curva_loss.png": "f5a092cb67615ba478dd902cc236542071448c24f21a875672d972d9bea13469",
+    "resultados/figuras/curva_loss_sin_duplicados.png": "be0f53abc6fe70bda8750659c11f07d1dfc9af65460879f26121ef0ac3a5bcc2",
+    "resultados/figuras/curva_roc.png": "7f9f92ed06cc15034eb688976e22f9afff0bba7768cd7318d3f0835fe785dd94",
+    "resultados/figuras/curva_roc_sin_duplicados.png": "a3949ab07dad8fd1e82354e563c37fbaa1b618e15a206f5125482d0f4370015c",
+    "resultados/figuras/kfold_10_metricas.png": "cab8d5f56629a95abde1d8b5918e339c2a8871cf03681a18a3a3489d59261556",
+    "resultados/figuras/kfold_5_metricas.png": "a6075277fa6573ee4b61956c1f3666e7f0306e999b2e8bdc419fe19f3f092b81",
+    "resultados/figuras/matriz_confusion.png": "2ddab5a943cea1955504451a8b9f26a74fa76e6dcdfa48844861e2a07ddb56df",
+    "resultados/figuras/matriz_confusion_sin_duplicados.png": "24a169dd8b3ccaf626d4e1a85979cb42dcaa4e36fc55f6c89109ed6401eb9746",
+    "resultados/nuevo_experimento/cardio_15000.csv": "6b4ede7be0c90e639541f7944c0a2979bd6133179a52f4d175f4da40154e2636",
+    "resultados/nuevo_experimento/cardio_limpio.csv": "1b16299f4bc88de10920b9b84915d54e41cb036b9d84141e21a0e4b9c46f825d",
+    "resultados/nuevo_experimento/classification_report.txt": "ca94c8d9cc6d578903569557b5af6aedc7dbc23ba449be4b056a296ded1bfc85",
+    "resultados/nuevo_experimento/figuras/arquitectura_nueva_cnn.png": "814256f8f292e140fd258dbbc2f48e573ffdfcbaba93eedcfbaa7934e27b3371",
+    "resultados/nuevo_experimento/figuras/cardio_15000.png": "cfe229c1fca0c4255b3353cd425a84505d51b98dc1c0593903da21242728493c",
+    "resultados/nuevo_experimento/figuras/cardio_limpio.png": "e42b9134020977601d09551f1b8505745db9266bbe53fb814ab38bd1cf5c5553",
+    "resultados/nuevo_experimento/figuras/cardio_original.png": "fa046d169635e12b102d23920149a0188e2aa16dc376fe5dc869e0737b94be34",
+    "resultados/nuevo_experimento/figuras/curva_accuracy.png": "63199b0118e75e8aa7b9516a4cc67296dd4f646e285aebd734f7db8ba77ec8d3",
+    "resultados/nuevo_experimento/figuras/curva_accuracy_nueva_cnn.png": "dbcb5cc8c31d378318d66fdf6e5f8875f8be04f47010985f528927d1dcde0cbc",
+    "resultados/nuevo_experimento/figuras/curva_loss.png": "2a42b6c33a3389070ba39001f8e5e80624a5cfa48b167fc9ebf2826d52be82ca",
+    "resultados/nuevo_experimento/figuras/curva_loss_nueva_cnn.png": "70f756aa13d91ce2cceecbcc50fb6b6e47f760caeb3a7d75fa3a0f9ad6cd0d42",
+    "resultados/nuevo_experimento/figuras/curva_roc.png": "f4fda6cdbde73437e254b3c83fe11910ab5c9b8e62f69ef55c7d4633ffe556ae",
+    "resultados/nuevo_experimento/figuras/curva_roc_nueva_cnn.png": "19abed9e395f9c3f5140f3aef9d677bb37e557f0c93f2d10fb06fd530a21e3d7",
+    "resultados/nuevo_experimento/figuras/distribucion_edad.png": "3cdb9375e8427178d219a5c588a69f0e5b07b8f4db19dec484c8977ac34f2661",
+    "resultados/nuevo_experimento/figuras/distribucion_presion.png": "283b6a55d1b53ba0ba3d37d1a64ea93aedf7d9119b1b134b34805e007bb79671",
+    "resultados/nuevo_experimento/figuras/importancia_variables.png": "5e67eb5f392c63ade0e2915ec6abe8e9c554376b9dd391ae9f8d9e7a2aafd836",
+    "resultados/nuevo_experimento/figuras/matriz_confusion.png": "50fcf1d98f8328b18a73ecfd5053fcc45f2d758c101073a16c42c8762603e558",
+    "resultados/nuevo_experimento/figuras/matriz_confusion_nueva_cnn.png": "12ed6d782dfb8aa42f83bb28d07d053f4dff918b767105f7a8c4a22f8147fb15",
+    "resultados/nuevo_experimento/figuras/metricas_finales.png": "76352f2e378861ec828fe7d0f688cfe3ec32f78a1958bf70d1740e857a3cf9c8",
+    "resultados/nuevo_experimento/modelo_nueva_cnn.keras": "5b53ec1a802d58147b0b0599dfa0072378d7b1d98036c55d1d938ca0c012cf90",
+    "resultados/nuevo_experimento/tablas/arquitectura_capas.csv": "c9096b253c0546412da589038e4440ca64d068d899daec531034b3cb9620d897",
+    "resultados/nuevo_experimento/tablas/arquitectura_final_resumen.csv": "ccb08247bdf7e16122df35175d77848f09718a88e4142bb441f8da544997961f",
+    "resultados/nuevo_experimento/tablas/historial_entrenamiento.csv": "21883415d4eca325effec3b6570b3c67bda9671e40648018249334a4ea9172f5",
+    "resultados/nuevo_experimento/tablas/historial_nueva_cnn.csv": "72ac547c66a64597d345fdd7e31bb228562d29f2142f182aa2dc426b0b82c6e9",
+    "resultados/nuevo_experimento/tablas/importancia_variables.csv": "d314132b93b0ad8c98dfe86837ccaa493c7a97ee9e8639550e8178dcf3984a4a",
+    "resultados/nuevo_experimento/tablas/metricas_evaluacion.csv": "e22fdf1073645676bc80bdefcdfaf446ea11fd0af3863f9194ed36ca2243d6b6",
+    "resultados/nuevo_experimento/tablas/metricas_finales_resumen.csv": "b5f188eb743f679f7b0fa2262919961a8722c59ea5b8aa680f388d28fc6e3334",
+    "resultados/nuevo_experimento/tablas/metricas_nueva_cnn.csv": "c3b08351514482d77221b5458cdb0213b3434f5888a425e1fb6bd08b7caeb0e6",
+    "resultados/nuevo_experimento/tablas/resumen_dataset_final.csv": "9b45a2c8197a19f3709c5d471115839f29bd4958af3b45a01e96824a3f378197",
+    "resultados/nuevo_experimento/tablas/resumen_experimento_final.csv": "48da2437c1edace1f57ab7fe54c1cc6e190a5fd9a900e2e562100d483ae170fe",
+    "resultados/nuevo_experimento/tablas/resumen_nueva_cnn.csv": "aae0bdf0f389d227db75da40fd4b0969526e9860acb18e30e3a9be2c7b9319a6",
+    "resultados/nuevo_experimento/y_pred.npy": "34d9d152a2a791bd3a56d86d5616fa1ecbf313dabeb44b42bf72fc4d95e9c8db",
+    "resultados/nuevo_experimento/y_prob.npy": "87d34d74ae3d68ace0e35a0d860c42cbdd8d98f02368cb789b2b98cfd617c39e",
+    "resultados/nuevo_experimento/y_test.npy": "f96b3e6bed588cca5690cca5c04e271f0a96a21c614f72be71c935e662bd4b2b",
+    "resultados/tablas/comparacion_experimentos.csv": "aa5cf5c62469abd6ccc123b154dd02657aac189cdf275cd4eb86692e69cf5e67",
+    "resultados/tablas/historial_entrenamiento.csv": "5ebf3bc434ce1b690694989a9919a680721ec5dacf13c9d0fb012aeae4b2ba44",
+    "resultados/tablas/historial_entrenamiento_sin_duplicados.csv": "b6e957ccdfd4eefcf2598c01fc71456d49ff1779e61949ece31995a2996e51da",
+    "resultados/tablas/kfold_comparacion.csv": "9b4a31e354762f8433ad470743eae8b8ec873c6211d21deb01fc7cea069f4e54",
+    "resultados/tablas/kfold_resultados.csv": "de5a49de6d5ca31bf3c3a6f45fee425067afe9dbf8c01b2d9f704818639c07ad",
+    "resultados/tablas/kfold_resumen.csv": "9347fa122e824ecfdd26245bdc83cee1002938193288d6cfb51505bf39eb3bad",
+    "resultados/tablas/metricas_modelo.csv": "7db9e10126b69dc0ca17aa1e5c41f611cd9a72ecb28ed8f45acfbf7f8351e2db",
+    "resultados/tablas/metricas_modelo_sin_duplicados.csv": "0ba1b3b9cdea5e07ffd35d627aa37fc1ac7f388eb2f46f26b95522296a258ba6",
+    "crear_notebook_07.py": "2df3af7b4d9c5075b04840d4f9a991314b1444d2b08180ce3023577d2a35f7fe",
+    "crear_notebook_08.py": "debc8dbf4c0d64582e091ee0ecd097b01a7cfdfc1a84c7d239f913f60122ab55",
+    "crear_notebook_09.py": "a4b1091817e64669acaf812dc392b8d601aff3e33403d4f6de4fa205131cd714",
+    "crear_notebook_10.py": "25763b06fc08645d5f19d8867d5275ceb84dc50e20d22b20954235d6e908f079",
+    "crear_notebook_11.py": "838dc4259964dbda196ada54bfdf0a147b88e731cf75df4e59f9ea13f970c19f",
+    "crear_notebook_12.py": "f00ec4df76273ecd6cd5be5f622fbc54fd1279337e114b74e2f216240e9b9e70"
+  },
+  "notebooks_originales": {
+    "notebooks/01_exploracion_dataset.ipynb": {
+      "respaldo": "notebooks/historico_dataset_1025/respaldo_original/01_exploracion_dataset.ipynb",
+      "sha256": "12904582edfff0a042f39af54a9e21554f6de92093b39d042c932fd95b55a74f"
+    },
+    "notebooks/02_preprocesamiento_dataset.ipynb": {
+      "respaldo": "notebooks/historico_dataset_1025/respaldo_original/02_preprocesamiento_dataset.ipynb",
+      "sha256": "3bf9c8f39933e8bfbae67a92a9ce85edb7998b3e37f365d3d1a4bb01069d4829"
+    },
+    "notebooks/03_modelo_1d_cnn.ipynb": {
+      "respaldo": "notebooks/historico_dataset_1025/respaldo_original/03_modelo_1d_cnn.ipynb",
+      "sha256": "2b33cc0e7c9bf7805acaf219c4fd12e76f03e0d5624dca154c2e8b4cc7155091"
+    },
+    "notebooks/04_entrenamiento_evaluacion.ipynb": {
+      "respaldo": "notebooks/historico_dataset_1025/respaldo_original/04_entrenamiento_evaluacion.ipynb",
+      "sha256": "21dc8209cf92216fc95f77731cb52b4f49bf4ea6051f80eb83d987b7610a8264"
+    },
+    "notebooks/05_experimento_sin_duplicados.ipynb": {
+      "respaldo": "notebooks/historico_dataset_1025/respaldo_original/05_experimento_sin_duplicados.ipynb",
+      "sha256": "157c02f483325cd50dc96598f46112a3d3670f1ba5c42dcbc5db51f220ead5f8"
+    },
+    "notebooks/06_kfold_5_10.ipynb": {
+      "respaldo": "notebooks/historico_dataset_1025/respaldo_original/06_kfold_5_10.ipynb",
+      "sha256": "047ac35796d4e17d2570737d3ddd9efd2128ee1c1cccab1b987b1042e40cebf2"
+    },
+    "notebooks/nuevo_experimento/07_auditoria_dataset.ipynb": {
+      "respaldo": "notebooks/respaldo_nuevo_experimento_original/07_auditoria_dataset.ipynb",
+      "sha256": "86eaf9594a401b824f35690a6ce20e326078e8efac0c638cb05c9fe0a47ab467"
+    },
+    "notebooks/nuevo_experimento/08_nueva_arquitectura_cnn.ipynb": {
+      "respaldo": "notebooks/respaldo_nuevo_experimento_original/08_nueva_arquitectura_cnn.ipynb",
+      "sha256": "e5907be3b57a0790f8e2bd8d64b1140d3d6e7cd725d7aa376d1c84bccaca6720"
+    },
+    "notebooks/nuevo_experimento/09_evaluacion_y_comparacion.ipynb": {
+      "respaldo": "notebooks/respaldo_nuevo_experimento_original/09_evaluacion_y_comparacion.ipynb",
+      "sha256": "50e3e4e4deb360d3dd2946212f8b977af50b4aa11f9fa002f19121ccbba6f37d"
+    },
+    "notebooks/nuevo_experimento/10_importancia_variables.ipynb": {
+      "respaldo": "notebooks/respaldo_nuevo_experimento_original/10_importancia_variables.ipynb",
+      "sha256": "c5692d7ed408f372693a8c3a4a67b38847262a1e6ff3ed60bd0a953a76ead849"
+    },
+    "notebooks/nuevo_experimento/11_arquitectura_modelo.ipynb": {
+      "respaldo": "notebooks/respaldo_nuevo_experimento_original/11_arquitectura_modelo.ipynb",
+      "sha256": "cbd587d6e71ff4ec0592f449521dafa4094db0818dc087d9a4efc416e7f09044"
+    },
+    "notebooks/nuevo_experimento/12_analisis_final.ipynb": {
+      "respaldo": "notebooks/respaldo_nuevo_experimento_original/12_analisis_final.ipynb",
+      "sha256": "db331e525cfa853acc55f21613eedb261dcf9471a9ca7bcd2ed756d19308f926"
+    }
+  }
+}
